@@ -2,7 +2,7 @@
 
 This repository contains the solution for the second home assignment in the Databases course (Shenkar College, IE&M).
 
-The assignment focuses on the theoretical foundation of SQL: solving complex queries using **Relational Algebra** notation (Sigma, Pi, Join, Union, Difference).
+The assignment focuses on the theoretical foundation of SQL: solving complex queries using Relational Algebra notation (Sigma, Pi, Join, Union, Difference).
 
 ## Key Skills Demonstrated
 
@@ -13,7 +13,7 @@ The assignment focuses on the theoretical foundation of SQL: solving complex que
 
 ## Repository Content
 
-* **`RelationalAlgebra_HW2_Solution.pdf`**: Full PDF solution containing the algebraic expressions for all query requirements.
+* **`Relational_Algebra_HW2_Solution.pdf`**: Full PDF solution containing the algebraic expressions for all query requirements.
 * **`Assignment_Instructions_2.pdf`**: Original assignment instructions.
 
 ***
