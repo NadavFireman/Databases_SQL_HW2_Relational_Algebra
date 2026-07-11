@@ -15,6 +15,3 @@ The assignment focuses on the theoretical foundation of SQL: solving complex que
 
 * **`Relational_Algebra_HW2_Solution.pdf`**: Full PDF solution containing the algebraic expressions for all query requirements.
 * **`Assignment_Instructions_2.pdf`**: Original assignment instructions.
-
-***
-*Course: Databases (SQL), Shenkar College, IE&M*
